@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,e,a){"use strict";a.r(e);var c=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},n=[function(){var t=this,e=t.$createElement,a=t._self._c||e;return a("div",{staticClass:"about"},[a("h4",{staticClass:"text-center"},[t._v("This chat was created by Victor Pawlek (c) 2021")])])}],s=a("2877"),r={},l=Object(s["a"])(r,c,n,!1,null,null,null);e["default"]=l.exports}}]);
+//# sourceMappingURL=about.5d4eba39.js.map
